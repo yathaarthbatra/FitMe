@@ -1,16 +1,6 @@
-# myapp1
+This is my first flutter project made using flutter Sdk and dart.
+The designing of the Project has been done by my fellow class mate Rohan(you can contact him at RohanSlathia11@gmail.com).
+Coding of the Project has been done by me.
+Leave Your feedback for more improvemet and if you liked pls rate as star. Thanks
+#Here are the screenshots:
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
